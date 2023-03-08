@@ -1,0 +1,33 @@
+.bor{
+    width: 600px;
+    height: 530px;
+    margin-top: 40px;
+    padding-top: 1px;
+    margin-left: 320px;
+  
+    
+   }
+   .fi{
+    max-width: 1500px;
+	padding: 39px 37px;
+	margin: 37px auto;
+	/* box-shadow: 5px 30px 60px 8px rgb(70 72 228 / 7%); */
+	box-shadow: 10px 10px 10px rgb(86, 94, 97);
+	width: 500px;
+    height: 520px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 40px;
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255,255,255,0.1); 
+    box-shadow: 0 0 50px rgba(7,8,16,0.6);
+    padding: 50px 35px;
+	background: #FC5C7D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+   }
